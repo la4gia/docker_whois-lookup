@@ -7,6 +7,7 @@ Program needs to be update with api key for https://whois.whoisxmlapi.com/, gmai
 The gmail account also needs security settings changed to allow 'less secure apps' functionality. 
 
 build with:  docker build --rm -t [docker name] .
+
 run with: docker run -t -i -d [docker name]
 
 
