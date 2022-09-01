@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER anthony_laforgia
+MAINTAINER your_name
 
 # SET WORKING DIRECTORY
 WORKDIR /usr/src/app
